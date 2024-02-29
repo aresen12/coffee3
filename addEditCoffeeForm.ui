@@ -207,7 +207,7 @@ color: rgb(255, 255, 255);</string>
      <string>Обьём</string>
     </property>
    </widget>
-   <widget class="QTextBrowser" name="taste">
+   <widget class="QLineEdit" name="taste">
     <property name="geometry">
      <rect>
       <x>230</x>
